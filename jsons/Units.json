@@ -1,0 +1,24 @@
+[
+  {
+    "name":"Yuri Ashigaru",
+    "replaces":"Archer",
+    "requiredEra":"Medieval Era",
+    "uniqueTo":["Oda, Tokugawa"],
+    "movementType":"Land",
+    "movement":2,
+    "attack":5,
+    "range":2,
+    "defend":2,
+  },
+  {
+    "name":"Katana Ashigaru",
+    "replaces":"Warrior",
+    "requiredEra":"Medieval Era",
+    "uniqueTo":["Oda, Tokugawa"],
+    "movementType":"Land",
+    "movement":2,
+    "attack":4,
+    "defend":2,
+    "uniques":["+5% attack bonus when in Open tiles"],
+  },
+    
