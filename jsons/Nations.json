@@ -1,5 +1,39 @@
 [
   {
+    "name":"Template",
+    "leaderName":"",
+    "startBias":[""],
+    "preferredVictoryType":"",
+    "favoredReligion":"",
+
+    "startIntroPart1":"",
+    "startIntroPart2":"",
+    
+    "introduction":"Welcome to the court of , where I, , rule over the province. How about you?",
+    "neutralHello":"Ōhayo gōzaishimasu. What can we do to help you here?"
+    "neutralLetsHearIt":"I'm listening.",
+    "neutralNo":"No, I think it is not the right moment.",
+    "neutralYes":"Ok, I accept."
+    "hateHello":"Oh, it's you... What motive do you comes to me for?",
+    "hateLetsHearIt":"Say it."
+    "hateNo":"Absolutely not."
+    "hateYes":"I think there's no more options other than accept this.",
+
+    "declaringWar":"I hereby inform you that you and your clan has destined to be gone! Prepare for war!",
+    "attacked":"How pity! You may say your last goodbye to your family before dying in my hand so do it."
+    "afterPeace":"It was an honor to fight you.",
+    "defeated":"It seems that I underestimated your might and your bravery. May you rule my clan in peace and not destroy it.",
+    "tradeRequest":"Hi, clan want to trade with you, would you accept this?",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"",
+    "uniques":[],
+
+    "cities":[],
+  },
+  {
     "name":"Oda",
     "leaderName":"Oda Nobunaga",
     "startBias":["Coast"],
@@ -44,3 +78,16 @@
     "startIntroPart2":"Oh Tokugawa Ieyasu, will you grab the reins of destiny? Will you bring your family and people honor and glory? Will you once again pick up the sword and shield and march to triumph? Can you build a civilization that will stand the test of time?",
 
     "introduction":"I am Tokugawa Ieyasu, head of the Tokugawa clan. Nothing in my realm will happen without my words.",
+    "neutralLetsHearIt":"I'm listening.",
+    "neutralNo":"No, I think it is not the right moment.",
+    "neutralYes":"Ok, I accept."
+    "hateHello":"Oh, it's you... What motive do you comes to me for?",
+    "hateLetsHearIt":"Say it."
+    "hateNo":"Absolutely not."
+    "hateYes":"I think there's no more options other than accept this.",
+
+    "declaringWar":"I hereby inform you that you and your clan has destined to be gone! Prepare for war!",
+    "attacked":"How pity! You may say your last goodbye to your family before dying in my hand so do it."
+    "afterPeace":"It was an honor to fight you.",
+    "defeated":"It seems that I underestimated your might and your bravery. May you rule my clan in peace and not destroy it.",
+    "tradeRequest":"Hi, Oda clan want to trade with you, would you accept this?",
