@@ -56,4 +56,10 @@
     "movement":5,
     "uniques":["Provides Horses (when on Land) or Oil (when on Water) when earned after Biology was discovered.","Adjacent units recieves doubled Movement","During a Golden Age, recieves the Sapper Promotion."],
   },
+  {
+    "name":"Nodachi",
+    "unitType":"Melee",
+    "replaces":"Longswordsman",
+    "requiredResource":"Iron",
+    "uniqueTo":"Uesugi"
     
