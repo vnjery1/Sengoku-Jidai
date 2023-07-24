@@ -1,5 +1,6 @@
 [
   {
+    //Template
     "name":"Template",
     "leaderName":"",
     "startBias":[""],
@@ -33,6 +34,7 @@
 
     "cities":[],
   },
+  //Clans
   {
     "name":"Oda",
     "leaderName":"Oda Nobunaga",
@@ -135,16 +137,16 @@
     "cities":["Odawara","Edo","Ashigara","Nirayama","Kamakura","Kawagoe","Kokokuji","Tamanawa","Misaki","Maebashi","Tsukui","Kawamura","Yamanaka","Nagahama","Shimoda","Fumusawa","Maruyama","Takiyama","Hachijoji","Sotagaya","Hachigata","Kozukue","Kuribachi","Iwatsuki","Aoki","Oshi","Kasai","Matsuyama","Matsuida","Motosakura","Karasawayama","Sekiyado","Hirai","Usui","Oyama","Koga"],
   },
   {
-    "name":"Template",
-    "leaderName":"",
-    "startBias":[""],
+    "name":"Takeda",
+    "leaderName":"Takeda Shingen",
+    "startBias":["Hills"],
     "preferredVictoryType":"",
-    "favoredReligion":"",
+    "favoredReligion":"Buddhism",
 
-    "startIntroPart1":"",
-    "startIntroPart2":"",
+    "startIntroPart1":"The winds of change are coming, oh Takeda Shingen, Head of Takeda clan and the Tiger of Kai. As one of the most and last powerful daimyos, with exceptional military prestige, you were adept at both domestic affairs and military leadership. You quickly conquered a number of the major warlords in the surrounding regions of Kai Province, and faced your fiercest rival, the Dragon of Echigo, Uesugi Kenshin on the battlefield five times, with both of you being a match for the other. You continued your conquests, but the structure of Japan was changing, with Oda Nobunaga and Tokugawa Ieyasu crushing their opponents. As the last daimyo who was powerful enough to stand against them, you led the de-facto anti-Oda alliance along with your twenty-four generals but died in camp before your project was complete.",
+    "startIntroPart2":"Fierce Takeda Shingen, you have been given a second chance to fight; to fight against old rivals and new threats. You must lead your clan to victory, for otherwise, you will face certain destruction. Find another twenty-four generals and retake your place among the daimyo elite. Will you rebuff the advances of your enemies? Can you build a civilization that will stand the test of time?",
     
-    "introduction":"Welcome to the court of , where I, , rule over the province. How about you?",
+    "introduction":"You stand before Shingen, leader of the great Takeda. Under heaven and earth, I alone am feared.",
     "neutralHello":"Ōhayo gōzaishimasu. What can we do to help you here?"
     "neutralLetsHearIt":"I'm listening.",
     "neutralNo":"No, I think it is not the right moment.",
@@ -157,14 +159,14 @@
     "declaringWar":"I hereby inform you that you and your clan has destined to be gone! Prepare for war!",
     "attacked":"How pity! You may say your last goodbye to your family before dying in my hand so do it."
     "afterPeace":"It was an honor to fight you.",
-    "defeated":"It seems that I underestimated your might and your bravery. May you rule my clan in peace and not destroy it.",
-    "tradeRequest":"Hi, clan want to trade with you, would you accept this?",
+    "defeated":"Impossible, you have moved a mountain! Truly, you are a worthy opponent!",
+    "tradeRequest":"Hi, Takeda clan want to trade with you, would you accept this?",
 
-    "outerColor":[0,0,0],
-    "innerColor":[0,0,0],
+    "outerColor":[255,250,50],
+    "innerColor":[255,150,50],
 
-    "uniqueName":"",
-    "uniques":[],
+    "uniqueName":"Tiger of Kai",
+    "uniques":["Units requiring Strategic Resources provide Golden Age Points when trained, and by defeating enemy Units. During a Golden Age, enemy Cities passively take damage for each Takeda Unit within Movement range."],
 
-    "cities":[],
+    "cities":["Kofu","Yogaiyama","Kaizu","Hakusan","Yato","Shinpu","Fuse","Katsurayama","Uenohara","Saigawa","Hachimanbara","Shiozaki","Fukashi","Kirihara","Katsurao","Hayashi","Toishi","Iwadonoyama","Takato","Majino","Katsuyama","Misaka","Yamura","Suwahara","Fukushima","Takatenjin","Wakamiko","Kuwabara","Minowa","Fukuyo","Nagakubo","Ryugasaki","Furumiya","Noda","Matsuo","Kuragano","Matsuyama","Kanbara","Hanazawa"],
   },
