@@ -27,6 +27,7 @@
     "name":"Yabusane",
     "unitType":"Ranged Calvary",
     "replaces":"Crossbowman",
+    "requiredResource":"Horse",
     "requiredEra":"Medieval Era",
     "movementType":"Land",
     "movement":4,
