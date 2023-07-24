@@ -86,8 +86,85 @@
     "hateNo":"Absolutely not."
     "hateYes":"I think there's no more options other than accept this.",
 
+    "declaringWar":"The sharp-edged sword cuts through the void, and within the raging fire, a cool wind blows.",
+    "attacked":"Be careful and come at me! I'll wait for your unguarded point."
+    "afterPeace":"It was an honor to fight you.",
+    "defeated":"The summer grasses are all that remains of warriors' dreams.",
+    "tradeRequest":"Hi, Tokugawa clan want to trade with you, would you accept this?",
+
+    "outerColor":[0,0,0],
+    "innerColor":[255,255,211],
+
+    "uniqueName":"Bakuhan",
+    "uniques":["Every Trade Route will provide 25% on all yields and if with another clan, provide +1 Culture and Science, and +2 Gold in every Yūkaku."],
+
+    "cities":["Edo","Atsumi","Hazu","Hekikai","Hoi","Higashikamo","Nishikamo","Nukata","Kitashitara","Minamishitara"],
+  },
+  {
+    "name":"Hojo",
+    "leaderName":"Hojo Ujiyasu",
+    "startBias":["Coast"],
+    "preferredVictoryType":"Culture",
+    "favoredReligion":"Shintoism",
+
+    "startIntroPart1":"Salutations to you, Hojo Ujiyasu, head of the Later Hojo, the Lion of Sagami! You became the clan's head at the age of 26, beset on enemies by all sides, and with an old and ailing economic system. You would subsequently reform the economy of your lands in Kanto, rapidly becoming one of the wealthier powers in the region, and with your deft and cunning acquired your legendary moniker of Lion of Sagami through your might of arms, repeatedly scoring incredible victories, and becoming one of the most powerful daimyo of the entire Sengoku period.",
+    "startIntroPart2":"Oh, noble Ujiyasu, your clan once again seeks glory and power as it is once more surrounded by foes at all corners. It is your powerful hand that must lead the Hojo clan once again to its primacy, and seize your place as the Lion of Sagami yet again. Can you rise above the circumstance like a dragonfly over a lake? Will you build a civilization that can stand the test of time?",
+    
+    "introduction":"Sit. Here in the lands of the Hojo, you are a guest.",
+    "neutralHello":"Ōhayo gōzaishimasu. What can we do to help you here?"
+    "neutralLetsHearIt":"I'm listening.",
+    "neutralNo":"No, I think it is not the right moment.",
+    "neutralYes":"Ok, I accept."
+    "hateHello":"Oh, it's you... What motive do you comes to me for?",
+    "hateLetsHearIt":"Say it."
+    "hateNo":"Absolutely not."
+    "hateYes":"I think there's no more options other than accept this.",
+
+    "declaringWar":"I will not allow my clan to suffer from you any longer. The time has come to end this charade!",
+    "attacked":"The Divine Wind will protect us and you will fall, like the others."
+    "afterPeace":"Curse you and your bloodline. May dragonflies fall wherever you walk.",
+    "defeated":"It seems that I underestimated your might and your bravery. May you rule my clan in peace and not destroy it.",
+    "tradeRequest":"Hi, Hojo clan want to trade with you, would you accept this?",
+
+    "outerColor":[0,255,0],
+    "innerColor":[244,255,244],
+
+    "uniqueName":"Lion of Sanemi",
+    "uniques":["Enemy units in Hojo lands take damage whenever an enemy is killed. +2 Gold from City Connections."],
+
+    "cities":["Odawara","Edo","Ashigara","Nirayama","Kamakura","Kawagoe","Kokokuji","Tamanawa","Misaki","Maebashi","Tsukui","Kawamura","Yamanaka","Nagahama","Shimoda","Fumusawa","Maruyama","Takiyama","Hachijoji","Sotagaya","Hachigata","Kozukue","Kuribachi","Iwatsuki","Aoki","Oshi","Kasai","Matsuyama","Matsuida","Motosakura","Karasawayama","Sekiyado","Hirai","Usui","Oyama","Koga"],
+  },
+  {
+    "name":"Template",
+    "leaderName":"",
+    "startBias":[""],
+    "preferredVictoryType":"",
+    "favoredReligion":"",
+
+    "startIntroPart1":"",
+    "startIntroPart2":"",
+    
+    "introduction":"Welcome to the court of , where I, , rule over the province. How about you?",
+    "neutralHello":"Ōhayo gōzaishimasu. What can we do to help you here?"
+    "neutralLetsHearIt":"I'm listening.",
+    "neutralNo":"No, I think it is not the right moment.",
+    "neutralYes":"Ok, I accept."
+    "hateHello":"Oh, it's you... What motive do you comes to me for?",
+    "hateLetsHearIt":"Say it."
+    "hateNo":"Absolutely not."
+    "hateYes":"I think there's no more options other than accept this.",
+
     "declaringWar":"I hereby inform you that you and your clan has destined to be gone! Prepare for war!",
     "attacked":"How pity! You may say your last goodbye to your family before dying in my hand so do it."
     "afterPeace":"It was an honor to fight you.",
     "defeated":"It seems that I underestimated your might and your bravery. May you rule my clan in peace and not destroy it.",
-    "tradeRequest":"Hi, Oda clan want to trade with you, would you accept this?",
+    "tradeRequest":"Hi, clan want to trade with you, would you accept this?",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"",
+    "uniques":[],
+
+    "cities":[],
+  },
