@@ -140,7 +140,7 @@
     "name":"Takeda",
     "leaderName":"Takeda Shingen",
     "startBias":["Hills"],
-    "preferredVictoryType":"",
+    "preferredVictoryType":"Domination",
     "favoredReligion":"Buddhism",
 
     "startIntroPart1":"The winds of change are coming, oh Takeda Shingen, Head of Takeda clan and the Tiger of Kai. As one of the most and last powerful daimyos, with exceptional military prestige, you were adept at both domestic affairs and military leadership. You quickly conquered a number of the major warlords in the surrounding regions of Kai Province, and faced your fiercest rival, the Dragon of Echigo, Uesugi Kenshin on the battlefield five times, with both of you being a match for the other. You continued your conquests, but the structure of Japan was changing, with Oda Nobunaga and Tokugawa Ieyasu crushing their opponents. As the last daimyo who was powerful enough to stand against them, you led the de-facto anti-Oda alliance along with your twenty-four generals but died in camp before your project was complete.",
@@ -169,4 +169,38 @@
     "uniques":["Units requiring Strategic Resources provide Golden Age Points when trained, and by defeating enemy Units. During a Golden Age, enemy Cities passively take damage for each Takeda Unit within Movement range."],
 
     "cities":["Kofu","Yogaiyama","Kaizu","Hakusan","Yato","Shinpu","Fuse","Katsurayama","Uenohara","Saigawa","Hachimanbara","Shiozaki","Fukashi","Kirihara","Katsurao","Hayashi","Toishi","Iwadonoyama","Takato","Majino","Katsuyama","Misaka","Yamura","Suwahara","Fukushima","Takatenjin","Wakamiko","Kuwabara","Minowa","Fukuyo","Nagakubo","Ryugasaki","Furumiya","Noda","Matsuo","Kuragano","Matsuyama","Kanbara","Hanazawa"],
+  },
+  {
+    "name":"Uesugi",
+    "leaderName":"Uesugi Kenshin",
+    "startBias":["Avoid Desert"],
+    "preferredVictoryType":"Domination",
+    "favoredReligion":"Buddhism",
+
+    "startIntroPart1":"The winds of change are coming, oh Uesugi Kenshin, Head of Uesugi and Nagao clans and the Dragon of Echigo. As one of the most and last powerful daimyos, with exceptional military prestige, you were adept at both domestic affairs and military leadership. You quickly conquered a number of the major warlords in the surrounding regions of Echigo Province, and faced your fiercest rival, the Tiger of Kai, Takeda Shingen, on the battlefield five times, with both of you being a match for the other. You continued your conquests, but the structure of Japan was changing, with Oda Nobunaga and Tokugawa Ieyasu crushing their opponents. But the daimyos were dying, leaving you one of the few who could stand against them, but, held up by bad weather, you died in camp before your project was complete.",
+    "startIntroPart2":"Valiant Uesugi Kenshin, you have been given a second chance to fight; to fight against old rivals and new threats. You must lead your clan to victory, for otherwise, you will face certain destruction. Receive your blessings from Tamonten and retake your place among the daimyo elite. Will you repulse the spread of your enemies? Can you build a civilization that will stand the test of time?",
+    
+    "introduction":"This humble one is Kenshin, Lord of the Uesugi and Nagao. Our fates will be decided in the heavens, but our accomplishments will be decided on our feet.",
+    "neutralHello":"Ōhayo gōzaishimasu. What can we do to help you here?"
+    "neutralLetsHearIt":"I'm listening.",
+    "neutralNo":"No, I think it is not the right moment.",
+    "neutralYes":"Ok, I accept."
+    "hateHello":"Oh, it's you... What motive do you comes to me for?",
+    "hateLetsHearIt":"Say it."
+    "hateNo":"Absolutely not."
+    "hateYes":"I think there's no more options other than accept this.",
+
+    "declaringWar":"I hereby inform you that you and your clan has destined to be gone! Prepare for war!",
+    "attacked":"How pity! You may say your last goodbye to your family before dying in my hand so do it."
+    "afterPeace":"It was an honor to fight you.",
+    "defeated":"I know not what life is, nor death. Both Heaven and Hell are left behind; I stand in the moonlit dawn, Free from clouds of attachment.",
+    "tradeRequest":"Hi, Uesugi clan want to trade with you, would you accept this?",
+
+    "outerColor":[244,244,255],
+    "innerColor":[10,0,250],
+
+    "uniqueName":"Dragon of Echigo",
+    "uniques":["Units defeated in or adjacent to your territory provide Faith regardless of their owner. Upon the outbreak of war, Production is rushed in the Capital equal to the amount of Faith in your reserves."],
+
+    "cities":["Kasugayama","Yonezawa","Tochio","Sakado","Samegao","Iiyama","Fuse","Katsurayama","Uenohara","Saigawa","Hachimanbara","Shiozaki","Imaizumi","Sekidosan","Kitanosho","Iwaki","Nanao","Higashiyata","Arayama","Kabutoyama","Togi","Shoinkawashin","Anamizu","Kumaki","Matsuto","Odawara","Masuyama","Sugiyama","Kawagoe","Moriyama","Iwatsuki","Yuyama","Hasunuma"],
   },
