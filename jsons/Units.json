@@ -23,4 +23,16 @@
     "cost":30,
     "uniques":["+5% attack bonus when in Open tiles"],
   },
+  {
+    "name":"Yabusane",
+    "unitType":"Ranged Calvary",
+    "replaces":"Crossbowman",
+    "requiredEra":"Medieval Era",
+    "movementType":"Land",
+    "movement":4,
+    "strength":3,
+    "range":4,
+    "cost":25,
+    "uniques":["Gains increased Combat Strength the further it moves."],
+  },
     
