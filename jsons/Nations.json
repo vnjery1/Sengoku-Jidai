@@ -204,3 +204,37 @@
 
     "cities":["Kasugayama","Yonezawa","Tochio","Sakado","Samegao","Iiyama","Fuse","Katsurayama","Uenohara","Saigawa","Hachimanbara","Shiozaki","Imaizumi","Sekidosan","Kitanosho","Iwaki","Nanao","Higashiyata","Arayama","Kabutoyama","Togi","Shoinkawashin","Anamizu","Kumaki","Matsuto","Odawara","Masuyama","Sugiyama","Kawagoe","Moriyama","Iwatsuki","Yuyama","Hasunuma"],
   },
+  {
+    "name":"Shimazu",
+    "leaderName":"Shimazu Yoshihisa",
+    "startBias":["None"],
+    "preferredVictoryType":"Domination, Science",
+    "favoredReligion":"Buddhism",
+
+    "startIntroPart1":"Welcome, Lord Shimazu Yoshihisa, head of the great house of Shimazu! After the Shimazu lands in Southern Kyushu were at last reunified thanks to the efforts of your predecessors, it was up to you to bring stability and prosperity to Satsuma and beyond. Though rarely on the battlefield yourself, you proved a cunning strategist and carefully applied the marshal brilliance of your brothers - Yoshihiro, Toshihisa, and Iehisa - to conquer the smaller clans surrounding your territory, and to eventually eclispe your great rivals, the Otomo clan.",
+    "startIntroPart2":"Lord Shimazu, though your rule over Kyushu was cut short by the overwhelming forces of Toyotomi Hideyoshi, all is not lost! Will you reclaim your ancestral territory and rule Satsuma once again? Can you build a civilization that will stand the test of time?",
+    
+    "introduction":"I am Yoshihisa, head of the Shimazu clan. I believe a great destiny lies ahead for my family.",
+    "neutralHello":"Ōhayo gōzaishimasu. What can we do to help you here?"
+    "neutralLetsHearIt":"I'm listening.",
+    "neutralNo":"No, I think it is not the right moment.",
+    "neutralYes":"Ok, I accept."
+    "hateHello":"Oh, it's you... What motive do you comes to me for?",
+    "hateLetsHearIt":"Say it."
+    "hateNo":"Absolutely not."
+    "hateYes":"I think there's no more options other than accept this.",
+
+    "declaringWar":"I hereby inform you that you and your clan has destined to be gone! Prepare for war!",
+    "attacked":"How pity! You may say your last goodbye to your family before dying in my hand so do it."
+    "afterPeace":"It was an honor to fight you.",
+    "defeated":"A pity I never had a chance to show my bravery in a battle. I waited here, for news of my brothers' victories.",
+    "tradeRequest":"Hi, Shimazu clan want to trade with you, would you accept this?",
+
+    "outerColor":[10,255,10],
+    "innerColor":[244,255,244],
+
+    "uniqueName":"Tsurinobuse",
+    "uniques":["Melee Units may choose additional Promotions that allow them to retreat from combat.","+25% Production towards Gunpowder Units if you have an active Research Agreement."],
+
+    "cities":[],
+  },
