@@ -1,0 +1,31 @@
+{
+ //Template
+  {
+   "name":"",
+   "style":"Oriental",
+   "leaderName":"",
+   "adjectives":["Japanese"],
+   "startBias":[""],
+   "preferredVictoryType":"",
+
+   "startIntroPart1":"",
+   "startIntroPart2":"",
+
+   "neutralHello":"",
+   "hateHello":"",
+   "tradeRequest":"",
+
+   "declaringWar":"",
+   "attacked":"",
+   "defeated":"",
+
+   "outerColor":[0,0,0],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"",
+   "uniques":[""],
+   "cities":[],
+},
+//Major Clans
+//Minor Clans
+//Westerners
