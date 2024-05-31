@@ -11,6 +11,7 @@
    "startIntroPart1":"",
    "startIntroPart2":"",
 
+   "introduction":"",
    "neutralHello":"",
    "hateHello":"",
    "tradeRequest":"",
@@ -26,6 +27,46 @@
    "uniques":[""],
    "cities":[],
 },
+{
+   "name":"",
+   "style":"Oriental",
+   "cityStateType":"",
+   "adjective":["Japanese"],
+   "declaringWar":"",
+   "attacked":"",
+   "defeated":"",
+   "outerColor":[0,0,0],
+   "innerColor":[0,0,0],
+   "uniques":[""],
+   "cities":[""],
+},
 //Major Clans
+{
+   "name":"Oda",
+   "style":"Oriental",
+   "leaderName":"Oda Nobunaga",
+   "adjectives":["Japanese"],
+   "startBias":[""],
+   "preferredVictoryType":"",
+
+   "startIntroPart1":"",
+   "startIntroPart2":"",
+
+   "neutralHello":"",
+   "hateHello":"",
+   "tradeRequest":"",
+
+   "declaringWar":"",
+   "attacked":"",
+   "defeated":"",
+
+   "outerColor":[0,0,0],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"",
+   "uniques":[""],
+   "cities":[],
+}
 //Minor Clans
+//Ikko-ikki
 //Westerners
