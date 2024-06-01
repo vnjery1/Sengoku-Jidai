@@ -46,8 +46,8 @@
    "style":"Oriental",
    "leaderName":"Oda Nobunaga",
    "adjectives":["Japanese"],
-   "startBias":[""],
-   "preferredVictoryType":"",
+   "startBias":["Hill"],
+   "preferredVictoryType":"Domination",
 
    "startIntroPart1":"",
    "startIntroPart2":"",
@@ -70,4 +70,4 @@
 }
 //Minor Clans
 //Ikko-ikki
-//Westerners
+//Others
