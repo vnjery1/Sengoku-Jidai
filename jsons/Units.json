@@ -7,6 +7,6 @@
     "uniqueTo":"Takeda",
     "replaces":"Great General",
     "movement": 2,
-    "uniques":["Can start an [8]-turn golden age by consuming this unit", "[+20]% Strength bonus for [Military] units within [2] tiles", "Double Movement bonus for [Military] units within [1] tiles", "Provides [Horses] after researching [Biology]","Recieves the [Sapper] promotion <during an Golden Age>", "Can construct [Citadel] improvement", "Great Person - [War]","Unbuildable","Uncapturable"],
+    "uniques":["Can start an [8]-turn golden age by consuming this unit", "[+20]% Strength bonus for [Military] units within [2] tiles", "Double Movement bonus for [Military] units within [1] tiles", "Provides [Horses] after researching [Biology]","Recieves the [Sapper] promotion <during an Golden Age>", "Can instantly construct [Citadel] improvement by consuming this unit","Can be earned through combat", "Great Person - [War]","Unbuildable","Uncapturable"],
   },
 ]
