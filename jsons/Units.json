@@ -14,7 +14,7 @@
     "upgradesTo":"Calvary",
     "obsoleteTech":"Military Science",
     "promotions":["Ignore enemy's [Zone of Control]"],
-    "uniques":["[-10]% enemy Units' Combat Strength <vs Akazonae>", "If beginning with a [Busho], retain its bonuses even moving out of range"],
+    "uniques":["[+10]% Strength <vs Enemy cities>", "If beginning with a [Busho], retain its bonuses even moving out of range"],
     "attackSound":"horse",
   },
   {
