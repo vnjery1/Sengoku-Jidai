@@ -21,11 +21,11 @@
    "attacked":"Pitiful fool! Now we shall destroy you!",
    "defeated":"You were much wiser than I thought.",
 
-   "outerColor":[120,120,0],
+   "outerColor":[220,220,0],
    "innerColor":[0,0,0],
 
    "uniqueName":"The Way of Bushido",
-   "uniques":["Units fight as though they were at full strength even when damaged. +1 Culture from each Fishing Boat and +2 Culture from each Atoll."],
+   "uniques":["Units fight as though they were at full strength even when damaged. [+1 Culture] from each [Fishing Boat] and [+2 Culture] from each [Atoll]."],
    "cities":["Nagoya","Kiyosu","Komakiyama","Gifu","Azuchi"],
 },
 {
@@ -49,11 +49,11 @@
    "attacked":"Watch out and be aware of my soldiers! I'll wait for the right moment to strike at you.",
    "defeated":"The summer grasses are all that remains of warriors' dreams.",
 
-   "outerColor":[150,150,0],
+   "outerColor":[180,180,0],
    "innerColor":[0,0,0],
 
-   "uniqueName":"The Great Shōgun",
-   "uniques":["Gain +1 Culture, +1 Science, and +2 Gold for every [Roads] and [Railroads]"],
+   "uniqueName":"The Han System",
+   "uniques":["Gain [+1 Culture, +1 Science, and +2 Gold] for every [Roads] and [Railroads]"],
    "cities":["Matsudaira","Okazaki","Edō","Nikkō"],
 },
 {
@@ -81,7 +81,7 @@
    "innerColor":[0,0,0],
 
    "uniqueName":"Tiger of Kai",
-   "uniques":["Units requiring Strategic Resources provide Golden Age Points when trained, and by defeating enemy Units. During a Golden Age, enemy Cities passively take damage for each Takeda Unit within Movement range."],
+   "uniques":["Units requiring [Strategic Resources] provide [Golden Age Points] when trained, and by defeating enemy Units. During a Golden Age, enemy Cities passively take damage for each Takeda Unit within Movement range."],
    "cities":["Kofu","Yogaiyama","Kaizu","Hakusan","Yato","Shinpu","Fuse","Katsurayama","Uenohara","Saigawa","Hachimanbara","Shiozaki","Fukashi","Kirihara","Katsurao","Hayashi","Toishi","Iwadonoyama","Takato","Majino","Katsuyama","Misaka","Yamura","Suwahara","Fukushima","Takatenjin","Wakamiko","Kuwabara","Minowa","Fukuyo","Nagakubo","Ryugasaki","Furumiya","Noda","Matsuo","Kuragano","Matsuyama","Kanbara","Hanazawa"],
 },
 {
@@ -105,12 +105,40 @@
    "attacked":"Your ambitions of war against us shows you are incompetent. Come and fight me, if you want to.",
    "defeated":"I know not what life is, nor death. Both Heaven and Hell are left behind; I stand in the moonlit dawn, Free from clouds of attachment.",
 
-   "outerColor":[0,0,240],
+   "outerColor":[0,150,240],
    "innerColor":[0,0,0],
 
    "uniqueName":"Dragon of Echigo",
-   "uniques":["Units defeated in or adjacent to your territory provide Faith regardless of their owner. Upon the outbreak of war, Production is rushed in the Capital equal to the amount of Faith in your reserves."],
+   "uniques":["Units defeated in or adjacent to your territory provide [Faith] regardless of their owner. Upon the outbreak of war, [Production] is rushed in the [Capital] equal to the amount of [Faith] in your reserves."],
    "cities":["Kasugayama","Yonezawa","Tochio","Sakado","Samegao","Iiyama","Fuse","Katsurayama","Uenohara","Saigawa","Hachimanbara","Shiozaki","Imaizumi","Sekidosan","Kitanosho","Iwaki","Nanao","Higashiyata","Arayama","Kabutoyama","Togi","Shoinkawashiri","Anamizu","Kumaki","Matsuto","Odawara","Masuyama","Sugiyama","Kawagoe","Moriyama","Iwatsuki","Yuyama","Hasunuma"],
+},
+{
+             "name":"Hojo",
+   "style":"Oriental",
+   "leaderName":"",
+   "adjectives":["Japanese"],
+   "startBias":[""],
+   "preferredVictoryType":"",
+   "favoredReligion":"",
+
+   "startIntroPart1":"",
+   "startIntroPart2":"",
+
+   "introduction":"",
+   "neutralHello":"",
+   "hateHello":"",
+   "tradeRequest":"",
+
+   "declaringWar":"",
+   "attacked":"",
+   "defeated":"",
+
+   "outerColor":[0,160,200],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"",
+   "uniques":[""],
+   "cities":[],
 },
 //Minor Clans
 //Ikko-ikki
