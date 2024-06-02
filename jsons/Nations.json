@@ -1,7 +1,7 @@
-{
+[
 //Major Clans
 {
-   "name":"Oda",
+              "name":"Oda",
    "style":"Oriental",
    "leaderName":"Oda Nobunaga",
    "adjectives":["Oda Clan Member"],
@@ -29,7 +29,7 @@
    "cities":["Nagoya","Kiyosu","Komakiyama","Gifu","Azuchi"],
 },
 {
-   "name":"Tokugawa",
+               "name":"Tokugawa",
    "style":"Oriental",
    "leaderName":"Tokugawa Ieyasu",
    "adjectives":["Tokugawa Clan Member"],
@@ -57,7 +57,7 @@
    "cities":["Matsudaira","Okazaki","Edō","Nikkō"],
 },
 {
-   "name":"Takeda",
+              "name":"Takeda",
    "style":"Oriental",
    "leaderName":"Takeda Shingen",
    "adjectives":["Takeda Clan Member"],
@@ -85,7 +85,7 @@
    "cities":["Kofu","Yogaiyama","Kaizu","Hakusan","Yato","Shinpu","Fuse","Katsurayama","Uenohara","Saigawa","Hachimanbara","Shiozaki","Fukashi","Kirihara","Katsurao","Hayashi","Toishi","Iwadonoyama","Takato","Majino","Katsuyama","Misaka","Yamura","Suwahara","Fukushima","Takatenjin","Wakamiko","Kuwabara","Minowa","Fukuyo","Nagakubo","Ryugasaki","Furumiya","Noda","Matsuo","Kuragano","Matsuyama","Kanbara","Hanazawa"],
 },
 {
-   "name":"Uesugi",
+             "name":"Uesugi",
    "style":"Oriental",
    "leaderName":"Uesugi Kenshin",
    "adjectives":["Uesugi Clan Member"],
@@ -115,3 +115,4 @@
 //Minor Clans
 //Ikko-ikki
 //Others
+]
