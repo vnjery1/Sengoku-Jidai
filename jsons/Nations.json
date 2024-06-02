@@ -1,46 +1,4 @@
 {
- //Templates
- {
-    "name":"Template",
-   "style":"Oriental",
-   "leaderName":"",
-   "adjectives":[""],
-   "startBias":[""],
-   "preferredVictoryType":"",
-   "favoredReligion":"",
-
-   "startIntroPart1":"",
-   "startIntroPart2":"",
-
-   "introduction":"",
-   "neutralHello":"",
-   "hateHello":"",
-   "tradeRequest":"",
-
-   "declaringWar":"",
-   "attacked":"",
-   "defeated":"",
-
-   "outerColor":[0,0,0],
-   "innerColor":[0,0,0],
-
-   "uniqueName":"",
-   "uniques":[""],
-   "cities":[],
-},
-{
-   "name":"Templatem",
-   "style":"Oriental",
-   "cityStateType":"",
-   "adjective":[""],
-   "declaringWar":"",
-   "attacked":"",
-   "defeated":"",
-   "outerColor":[0,0,0],
-   "innerColor":[0,0,0],
-   "uniques":[""],
-   "cities":[""],
-},
 //Major Clans
 {
    "name":"Oda",
