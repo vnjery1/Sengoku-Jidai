@@ -7,6 +7,7 @@
    "adjectives":["Japanese"],
    "startBias":[""],
    "preferredVictoryType":"",
+   "favoredReligion":"",
 
    "startIntroPart1":"",
    "startIntroPart2":"",
@@ -48,14 +49,15 @@
    "adjectives":["Japanese"],
    "startBias":["Hill"],
    "preferredVictoryType":"Domination",
+   "favoredReligion":"Shintoism",
 
    "startIntroPart1":"Blessings upon you noble Oda Nobunaga, ruler of the land where the sun rises - may you long walk among its flowering blossoms. You are the ruler of Japan, the land of the Rising Sun. The Japanese are an island people, proud and pious with a rich culture of arts and letters. Your civilization stretches back thousands of years, years of bloody warfare, expansion and isolation, great wealth and great poverty. In addition to their prowess on the field of battle, your people are also immensely industrious, and their technological innovation and mighty factories are the envy of lesser people everywhere.",
    "startIntroPart2":"Legendary daimyo, will you grab the reins of destiny? Will you bring your family and people honor and glory? Will you once again pick up the sword and shield and march to triumph? Can you build a civilization that will stand the test of time?",
 
-   "introduction":"Welcome, I am the humble Oda Nobunaga. We hope for a fair and just relationship with you, who are renowned for military bravery.",
-   "neutralHello":"Greetings, what brings you to me here?",
+   "introduction":"Welcome, this humble one is Oda Nobunaga. We hope for a fair and just relationship with you, who are renowned for military bravery.",
+   "neutralHello":"Greetings, what brings you here?",
    "hateHello":"Oh, it's you...",
-   "tradeRequest":"I, the humble Oda Nobunaga, would be grateful if you agreed on this proposal.",
+   "tradeRequest":"I, Oda Nobunaga, would be grateful if you agreed on this proposal.",
 
    "declaringWar":"I hereby inform you of our intention to wipe out your clan from this world.",
    "attacked":"Pitiful fool! Now we shall destroy you!",
@@ -75,14 +77,15 @@
    "adjectives":["Japanese"],
    "startBias":["None"],
    "preferredVictoryType":"Domination",
+   "favoredReligion":"Buddhism",
 
    "startIntroPart1":"Great Daimyō Tokugawa Ieyasu, you know well that the patient blade is the one that will strike home. Guard your homeland carefully from usurpers domestic and foreign, and trust in the industry and resourcefulness of your people, for they alone can be relied upon. The task of rule is one that is long, and its burdens are heavy, but there is no room for discontent, nor for despair, with your hand upon the sword.",
    "startIntroPart2":"Oh great daimyō, will you battle until your last breath? Will you ",
 
-   "introduction":"I am the humble Tokugawa Ieyasu, the head of the Tokugawa clan. Without my say, nothing happens.",
-   "neutralHello":"",
-   "hateHello":"",
-   "tradeRequest":"",
+   "introduction":"This humble one is Tokugawa Ieyasu, the head of the Tokugawa clan. Without my say, nothing happens.",
+   "neutralHello":"Ah, nice to see you again. What brings you here?",
+   "hateHello":"Huh! It's you... What do you want?!",
+   "tradeRequest":"It would be wise of you to accept my proposal.",
 
    "declaringWar":"The sharp-edged sword cuts through the void, and within the raging fire, a cool wind blows.",
    "attacked":"Watch out and be aware of my soldiers! I'll wait for the right moment to strike at you.",
@@ -91,10 +94,66 @@
    "outerColor":[150,150,0],
    "innerColor":[0,0,0],
 
-   "uniqueName":"",
-   "uniques":[""],
-   "cities":[],
-}
+   "uniqueName":"The Great Shōgun",
+   "uniques":["Gain +1 Culture, +1 Science, and +2 Gold for every [Roads] and [Railroads]"],
+   "cities":["Matsudaira","Okazaki","Edō","Nikkō"],
+},
+{
+   "name":"Takeda",
+   "style":"Oriental",
+   "leaderName":"Takeda Shingen",
+   "adjectives":["Japanese"],
+   "startBias":["Hills"],
+   "preferredVictoryType":"Domination",
+   "favoredReligion":"Shintoism",
+
+   "startIntroPart1":"The winds of change are coming, oh Takeda Shingen, Head of Takeda clan and the Tiger of Kai. As one of the most and last powerful daimyos, with exceptional military prestige, you were adept at both domestic affairs and military leadership. You quickly conquered a number of the major warlords in the surrounding regions of Kai Province, and faced your fiercest rival, the Dragon of Echigo, Uesugi Kenshin on the battlefield five times, with both of you being a match for the other. You continued your conquests, but the structure of Japan was changing, with Oda Nobunaga and Tokugawa Ieyasu crushing their opponents. As the last daimyo who was powerful enough to stand against them, you led the de-facto anti-Oda alliance along with your twenty-four generals but died in camp before your project was complete.",
+   "startIntroPart2":"Fierce Takeda Shingen, you have been given a second chance to fight; to fight against old rivals and new threats. You must lead your clan to victory, for otherwise, you will face certain destruction. Find another twenty-four generals and retake your place among the daimyo elite. Will you rebuff the advances of your enemies? Can you build a civilization that will stand the test of time?",
+
+   "introduction":"You stand before Shingen, leader of the great Takeda clan. Under heaven and earth, I alone am feared.",
+   "neutralHello":"Greetings, what brings you here?",
+   "hateHello":"Oh, it's you!!! What brought you to me?!?!?!",
+   "tradeRequest":"This proposal here is good, you might accept this if you're wise.",
+
+   "declaringWar":"I will show you the might of the Takeda's army! Come and fight me.",
+   "attacked":"Hah, then you should know that this Tiger will eat you alive!",
+   "defeated":"Impossible, you have moved a mountain! Truly, you are a worthy opponent!",
+
+   "outerColor":[180,0,0],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"Tiger of Kai",
+   "uniques":["Units requiring Strategic Resources provide Golden Age Points when trained, and by defeating enemy Units. During a Golden Age, enemy Cities passively take damage for each Takeda Unit within Movement range."],
+   "cities":["Kofu","Yogaiyama","Kaizu","Hakusan","Yato","Shinpu","Fuse","Katsurayama","Uenohara","Saigawa","Hachimanbara","Shiozaki","Fukashi","Kirihara","Katsurao","Hayashi","Toishi","Iwadonoyama","Takato","Majino","Katsuyama","Misaka","Yamura","Suwahara","Fukushima","Takatenjin","Wakamiko","Kuwabara","Minowa","Fukuyo","Nagakubo","Ryugasaki","Furumiya","Noda","Matsuo","Kuragano","Matsuyama","Kanbara","Hanazawa"],
+},
+{
+   "name":"Uesugu",
+   "style":"Oriental",
+   "leaderName":"Uesugi Kenshin",
+   "adjectives":["Japanese"],
+   "startBias":["Avoid Desert"],
+   "preferredVictoryType":"Domination",
+   "favoredReligion":"Shintoism",
+
+   "startIntroPart1":"The winds of change are coming, oh Uesugi Kenshin, Head of Uesugi and Nagao clans and the Dragon of Echigo. As one of the most and last powerful daimyos, with exceptional military prestige, you were adept at both domestic affairs and military leadership. You quickly conquered a number of the major warlords in the surrounding regions of Echigo Province, and faced your fiercest rival, the Tiger of Kai, Takeda Shingen, on the battlefield five times, with both of you being a match for the other. You continued your conquests, but the structure of Japan was changing, with Oda Nobunaga and Tokugawa Ieyasu crushing their opponents. But the daimyos were dying, leaving you one of the few who could stand against them, but, held up by bad weather, you died in camp before your project was complete.",
+   "startIntroPart2":"Valiant Uesugi Kenshin, you have been given a second chance to fight; to fight against old rivals and new threats. You must lead your clan to victory, for otherwise, you will face certain destruction. Receive your blessings from Tamonten and retake your place among the daimyo elite. Will you repulse the spread of your enemies? Can you build a civilization that will stand the test of time?",
+
+   "introduction":"This humble one is Kenshin, Lord of the Uesugi and Nagao. Our fates will be decided in the heavens, but our accomplishments will be decided on our feet.",
+   "neutralHello":"Greetings, what brings you to Echigo?",
+   "hateHello":"It seems you wanted to meet me. Tell me then, as I am not satisfied to meet you at all.",
+   "tradeRequest":"This humble warrior will wish for the best for you if you're wise to accept this proposal.",
+
+   "declaringWar":"It seems your ambitions are too high for me to tolerate. Prepare for war.",
+   "attacked":"Your ambitions of war against us shows you are incompetent. Come and fight me, if you want to.",
+   "defeated":"I know not what life is, nor death. Both Heaven and Hell are left behind; I stand in the moonlit dawn, Free from clouds of attachment.",
+
+   "outerColor":[0,0,240],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"Dragon of Echigo",
+   "uniques":["Units defeated in or adjacent to your territory provide Faith regardless of their owner. Upon the outbreak of war, Production is rushed in the Capital equal to the amount of Faith in your reserves."],
+   "cities":["Kasugayama","Yonezawa","Tochio","Sakado","Samegao","Iiyama","Fuse","Katsurayama","Uenohara","Saigawa","Hachimanbara","Shiozaki","Imaizumi","Sekidosan","Kitanosho","Iwaki","Nanao","Higashiyata","Arayama","Kabutoyama","Togi","Shoinkawashiri","Anamizu","Kumaki","Matsuto","Odawara","Masuyama","Sugiyama","Kawagoe","Moriyama","Iwatsuki","Yuyama","Hasunuma"],
+},
 //Minor Clans
 //Ikko-ikki
 //Others
