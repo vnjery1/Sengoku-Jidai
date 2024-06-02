@@ -1,4 +1,20 @@
 [
   //Non-unique
   //Unique
+  {
+          "name":"Akazonae",
+    "unitType":"Mounted",
+    "replaces":"Knight",
+    "uniqueTo":"Takeda",
+    "movement": 4,
+    "strength": 20,
+    "cost": 210,
+    "requiredTech":"Chivalry",
+    "requiredResource":"Horses",
+    "upgradesTo":"Calvary",
+    "obsoleteTech":"Military Science",
+    "promotions":["Ignore enemy's [Zone of Control]"],
+    "uniques":["[-10]% enemy Units' Combat Strength <vs Akazonae>", "If beginning with a Busho, retain its bonuses even moving out of range"],
+    "attackSound":"horse",
+  },
 ]
