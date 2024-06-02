@@ -26,7 +26,7 @@
 
    "uniqueName":"The Way of Bushido",
    "uniques":["Units fight as though they were at full strength even when damaged. [+1 Culture] from each [Fishing Boat] and [+2 Culture] from each [Atoll]."],
-   "cities":["Nagoya","Kiyosu","Komakiyama","Gifu","Azuchi"],
+   "cities":["Nagoya","Kiyosu","Komakiyama","Gifu","Azuchi","Kyoto","Osaka"],
 },
 {
                "name":"Tokugawa",
@@ -115,30 +115,58 @@
 {
              "name":"Hojo",
    "style":"Oriental",
-   "leaderName":"",
-   "adjectives":["Japanese"],
-   "startBias":[""],
-   "preferredVictoryType":"",
-   "favoredReligion":"",
+   "leaderName":"Hojo Ujiyasu",
+   "adjectives":["Hojo Clan Member"],
+   "startBias":["Coast"],
+   "preferredVictoryType":"Diplomacy",
+   "favoredReligion":"Shinto",
 
-   "startIntroPart1":"",
-   "startIntroPart2":"",
+   "startIntroPart1":"Salutations to you, Hojo Ujiyasu, head of the Later Hojo, the Lion of Sagami! You became the clan's head at the age of 26, beset on enemies by all sides, and with an old and ailing economic system. You would subsequently reform the economy of your lands in Kanto, rapidly becoming one of the wealthier powers in the region, and with your deft and cunning acquired your legendary moniker of Lion of Sagami through your might of arms, repeatedly scoring incredible victories, and becoming one of the most powerful daimyo of the entire Sengoku period.",
+   "startIntroPart2":"Oh, noble Ujiyasu, your clan once again seeks glory and power as it is once more surrounded by foes at all corners. It is your powerful hand that must lead the Hojo clan once again to its primacy, and seize your place as the Lion of Sagami yet again. Can you rise above the circumstance like a dragonfly over a lake? Will you build a civilization that can stand the test of time?",
 
-   "introduction":"",
-   "neutralHello":"",
-   "hateHello":"",
-   "tradeRequest":"",
+   "introduction":"Salutations to you, this humble fellow is Hojo Ujiyasu. Sit down, here in the lands of the Hojo, you are a guest.",
+   "neutralHello":"Ah, it's you. What brings you here?",
+   "hateHello":"Oh... What do you want from me?",
+   "tradeRequest":"It would be great if you accept my proposal.",
 
-   "declaringWar":"",
-   "attacked":"",
-   "defeated":"",
+   "declaringWar":"It seems war is inevitable, let's see your skills in battle.",
+   "attacked":"Your aggression did not favor me at all, and a fatal one as well.",
+   "defeated":"Curse you and your bloodline. May dragonflies fall wherever you walk.",
 
    "outerColor":[0,160,200],
    "innerColor":[0,0,0],
 
-   "uniqueName":"",
-   "uniques":[""],
-   "cities":[],
+   "uniqueName":"Lion of Sagami",
+   "uniques":["Enemy units in Hojo lands take damage whenever an enemy is killed. [+2 Gold] from [City Connections]."],
+   "cities":["Odawara","Edo","Ashigara","Nirayama","Kamakura","Kawagoe","Kokokuji","Tamanawa","Misaki","Maebashi","Tsukui","Kawamura","Yamanaka","Nagahama","Shimoda","Fukusawa","Maruyama","Takiyama","Hachijoji","Setagaya","Hachigata","Kozukue","Kurihashi","Iwatsuki","Aoki","Oshi","Kasai","Matsuyama","Matsuida","Motosakura","Karasawayama","Sekiyado","Hirai","Usui","Oyama","Koga"],
+},
+{
+           "name":"Chosokabe",
+   "style":"Oriental",
+   "leaderName":"Chosokabe Motochika",
+   "adjectives":["Japanese"],
+   "startBias":["None"],
+   "preferredVictoryType":"None",
+   "favoredReligion":"Buddhism",
+
+   "startIntroPart1":"Hail, Chosokabe Motochika, Chief of the Chosokabe Clan! Though your father called you 'Little Princess' in your youth, you were anything but a princess upon inheriting power. Quickly proving yourself in battle, you finished your father's work and turned on the Ichijo clan, gaining full control of Tosa province. Alas, Tosa's soil was poor and could not sustain your lands, and your battle prowess meant that by 1583, you controlled the entirety of Shikoku. Unfortunately, this rule did not last long, and though you fought valiantly against Hideyoshi's forces, you were forced to surrender all provinces except Tosa.",
+   "startIntroPart2":"Lord Chosokabe, once again, you shake aside your moniker of Himewako. Once again, you take to the field to secure your people's future. Will you sweep aside all who stand before you? Can you build a civilization that will stand the test of time?",
+
+   "introduction":"This is quite rare. A traveler in Shikoku? Welcome to Tosa. This humble one is Chosokabe Motochika.",
+   "neutralHello":"It's you again! What brings you to Tosa once more?",
+   "hateHello":"You... What do you want? Tell me now, I have no patience for you.",
+   "tradeRequest":"Hey, is my proposal looks good to you?",
+
+   "declaringWar":"I did not like your attitude upon Chosokabe domains, prepare for war!",
+   "attacked":"How predictable, you are nothing more than a liar to me, Chosokabe Motochika!",
+   "defeated":"I have no regrets other than to die in your hands, you showed me your leadership. Great work.",
+
+   "outerColor":[100,250,0],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"Hundred Article Code",
+   "uniques":["Conquered cities provide a percentage of their [Food] to your Capital. Trade Routes to [Cities] with a Courthouse gain [+25]% [Food]."],
+   "cities":["Oko","Hata","Aki","Nakamura","Urado","Kochi","Ichinomiya","Shozui","Ozu","Takao","Kaneko","Marugame","Takamatsu","Hiketa","Matsuyama","Uwajima","Nakatsu","Imabari","Awa","Iyo"],
 },
 //Minor Clans
 //Ikko-ikki
