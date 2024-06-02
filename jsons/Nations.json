@@ -71,23 +71,24 @@
 {
    "name":"Tokugawa",
    "style":"Oriental",
-   "leaderName":"",
+   "leaderName":"Tokugawa Ieyasu",
    "adjectives":["Japanese"],
-   "startBias":[""],
-   "preferredVictoryType":"",
+   "startBias":["None"],
+   "preferredVictoryType":"Domination",
 
-   "startIntroPart1":"",
-   "startIntroPart2":"",
+   "startIntroPart1":"Great Daimyō Tokugawa Ieyasu, you know well that the patient blade is the one that will strike home. Guard your homeland carefully from usurpers domestic and foreign, and trust in the industry and resourcefulness of your people, for they alone can be relied upon. The task of rule is one that is long, and its burdens are heavy, but there is no room for discontent, nor for despair, with your hand upon the sword.",
+   "startIntroPart2":"Oh great daimyō, will you battle until your last breath? Will you ",
 
+   "introduction":"I am the humble Tokugawa Ieyasu, the head of the Tokugawa clan. Without my say, nothing happens.",
    "neutralHello":"",
    "hateHello":"",
    "tradeRequest":"",
 
-   "declaringWar":"",
-   "attacked":"",
-   "defeated":"",
+   "declaringWar":"The sharp-edged sword cuts through the void, and within the raging fire, a cool wind blows.",
+   "attacked":"Watch out and be aware of my soldiers! I'll wait for the right moment to strike at you.",
+   "defeated":"The summer grasses are all that remains of warriors' dreams.",
 
-   "outerColor":[0,0,0],
+   "outerColor":[150,150,0],
    "innerColor":[0,0,0],
 
    "uniqueName":"",
