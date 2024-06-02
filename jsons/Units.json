@@ -2,22 +2,6 @@
   //Non-unique
   //Unique
   {
-          "name":"Akazonae",
-    "unitType":"Mounted",
-    "replaces":"Knight",
-    "uniqueTo":"Takeda",
-    "movement": 4,
-    "strength": 20,
-    "cost": 210,
-    "requiredTech":"Chivalry",
-    "requiredResource":"Horses",
-    "upgradesTo":"Calvary",
-    "obsoleteTech":"Military Science",
-    "promotions":["Ignore enemy's [Zone of Control]"],
-    "uniques":["[+10]% Strength <vs Enemy cities>"],
-    "attackSound":"horse",
-  },
-  {
                "name": "Busho",
     "unitType":"Civilian",
     "uniqueTo":"Takeda",
