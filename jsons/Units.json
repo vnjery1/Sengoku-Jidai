@@ -14,7 +14,14 @@
     "upgradesTo":"Calvary",
     "obsoleteTech":"Military Science",
     "promotions":["Ignore enemy's [Zone of Control]"],
-    "uniques":["[-10]% enemy Units' Combat Strength <vs Akazonae>", "If beginning with a Busho, retain its bonuses even moving out of range"],
+    "uniques":["[-10]% enemy Units' Combat Strength <vs Akazonae>", "If beginning with a [Busho], retain its bonuses even moving out of range"],
     "attackSound":"horse",
+  },
+  {
+               "name": "Busho",
+    "unitType":"Civilian",
+    "uniqueTo":"Takeda",
+    "replaces":"Great General",
+    "uniques":["Can start an [8]-turn golden age", "[+20]% Strength bonus for [Military] units within [2] tiles", "Double Movement bonus for [Military] units within [1] tiles", "Provides [Horses] after researching [Biology]","Recieves the [Sapper] promotion <during an Golden Age>", "Great Person - [War]","Unbuildable","Uncapturable"],
   },
 ]
