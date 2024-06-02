@@ -1,7 +1,7 @@
 {
  //Template
   {
-   "name":"",
+   "name":"Template",
    "style":"Oriental",
    "leaderName":"",
    "adjectives":["Japanese"],
@@ -29,7 +29,7 @@
    "cities":[],
 },
 {
-   "name":"",
+   "name":"Templatem",
    "style":"Oriental",
    "cityStateType":"",
    "adjective":["Japanese"],
