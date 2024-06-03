@@ -168,6 +168,34 @@
    "uniques":["Conquered cities provide a percentage of their [Food] to your Capital. Trade Routes to [Cities] with a Courthouse gain [+25]% [Food]."],
    "cities":["Oko","Hata","Aki","Nakamura","Urado","Kochi","Ichinomiya","Shozui","Ozu","Takao","Kaneko","Marugame","Takamatsu","Hiketa","Matsuyama","Uwajima","Nakatsu","Imabari","Awa","Iyo"],
 },
+  {
+   "name":"Imagawa",
+   "style":"Oriental",
+   "leaderName":"Imagawa Yoshimoto",
+   "adjectives":["Imagawa Clan Members"],
+   "startBias":["None"],
+   "preferredVictoryType":"Domination",
+   "favoredReligion":"Buddhism",
+
+   "startIntroPart1":"Greetings, great Imagawa Yoshimoto, lord of the Imagawa clan! You led one of the preeminent clans of the early Sengoku period, custodians of the rich and fertile Suruga and Totomi provinces. As daimyo, you quickly became a respected diplomat and administrator. Under your administration, your capital of Sunpu grew into a prosperous cultural hub approaching even the court of Kyoto in its grandeur. You were renowned for your success in mediating and resolving disputes among feudal lords, solving issues without bloodshed and forging powerful alliances with your neigbours. While you were not a renowned military commander in your own right, your powerful and loyal army, successful commanders, and success in swaying minor daimyos to your side allowed you significant success in your conquests, expanding your domain to Mikawa and parts of Owari. Truly, your rule saw the Imagawa reach a position of prestige and prosperity rarely achieved by a simple clan!",
+   "startIntroPart2":"Oh great daimyo, your bold march to Kyoto led to your shocking defeat and untimely death, and the legacy of your clan and your rule has been eclipsed by the rise of your vanquisher. But your great leadership is once more recognised, and you have the opportunity to lead the Imagawa on a new path of ascendancy! Will you triumph over your foes, by the quill or by the blade, and emerge as a leader all can follow? Will you build a civilization to stand the test of time?",
+
+   "introduction":"Hail! The humble Yoshimoto of the Imagawa clan greets you. Perhaps in this age of warfare, we are best off pursuing our interests together?",
+   "neutralHello":"Look like we met again. What affairs do you have in mind?",
+   "hateHello":"Look like you and I are met again once more. What do you want me to do, you useless trash?",
+   "tradeRequest":"Think wisely and accept my proposal. It's good, I assure you so.",
+
+   "declaringWar":"You are in our interests of taking over, try to stop me will be your greatest fatal mistake!",
+   "attacked":"Oh hoh hoh... I see... Let's see who is better, you or me.",
+   "defeated":"You have bested me. I can only hope I am remembered for my achievements and not my military failure.",
+
+   "outerColor":[120,0,240],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"The Great March to Kyoto",
+   "uniques":["For the first [5] turns of a war, Units ignore enemy [Zone of Control] and may use enemy [Roads]. Capturing another Civilization's Capital transfers all their [Influence] with City-States to you."],
+   "cities":["Sunpu","Hamamatsu","Shizuhatayama","Kakegawa","Mochifune","Tanaka","Kokokuji","Omiya","Mariko","Hanazawa","Ishiwaki","Katanokami","Hanakura","Yokoji","Takatenjin","Utsuyama","Inui","Futamata","Tobayama","Osakabe","Iinoya","Shizu","Kuno","Okazaki","Tahara","Yoshida","Ansho","Otaka","Kutsukake","Narumi"],
+},
 //Minor Clans
 //Ikko-ikki
 //Others
