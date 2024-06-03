@@ -71,6 +71,6 @@
     "requiredResource":"Horses",
     "obsoleteTech":"Combustion",
     "upgradesTo":"Landship",
-    "uniques":["Can move after attacking", "No defensive terrain bonus","Ignores enemy [Zone of Control]","[-10]% enemy's [Military] units 'Strength <vs [Akazonae]>","If beginning near a [Busho], retains its bonus <even when moving out of range>"],
+    "uniques":["Can move after attacking", "No defensive terrain bonus","Ignores enemy [Zone of Control]","[+10]% Strength <vs [Military] units>","[+33]% Strength <vs cities> <when attacking>","If beginning near a [Busho], retains its bonus <even when moving out of range>"],
   },
 ]
