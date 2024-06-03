@@ -12,6 +12,7 @@
     "upgradesTo":"Musketman",
     "obsoleteTech":"Military Science",
     "uniques":["[+50]% Combat Strength <vs [Mounted] units>"],
+    "attackSound":"metalhit"
   },
   //Unique
   {
