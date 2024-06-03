@@ -61,7 +61,7 @@
    "style":"Oriental",
    "leaderName":"Takeda Shingen",
    "adjectives":["Takeda Clan Member"],
-   "startBias":["Hills"],
+   "startBias":["Hill"],
    "preferredVictoryType":"Domination",
    "favoredReligion":"Shinto",
 
@@ -89,7 +89,7 @@
    "style":"Oriental",
    "leaderName":"Uesugi Kenshin",
    "adjectives":["Uesugi Clan Member"],
-   "startBias":["Avoid Desert"],
+   "startBias":["Avoid [Desert]"],
    "preferredVictoryType":"Domination",
    "favoredReligion":"Shinto",
 
