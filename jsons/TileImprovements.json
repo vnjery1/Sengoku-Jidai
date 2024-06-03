@@ -4,6 +4,6 @@
     "uniqueTo":"Chosokabe",
     "terrainsCanBeBuiltOn":["Hill","Forest","Jungle"],
     "requiredTech":"Civil Service",
-    "uniques":["[+2 Gold]","[+2 Culture] after discovering [Railroad]","Prevent any adjecent [Trade] units <from being pillaged>","May not be built adjacent to another [Ichirikuza]"],
+    "uniques":["[+2 Gold]","[+2 Culture] <after discovering [Railroad]>","Prevent any adjecent [Trade] units <from being pillaged>","May not be built adjacent to another [Ichirikuza]"],
   },
 ]
