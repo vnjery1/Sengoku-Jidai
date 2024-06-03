@@ -1,5 +1,18 @@
 [
   //Non-unique
+  {
+    "name":"Nodachi Samurai",
+    "unitType":"Sword",
+    "replaces":"Longswordsman",
+    "movement": 2,
+    "strength": 21,
+    "cost": 120,
+    "requiredTech":"Steel",
+    "requiredResource":"Iron",
+    "upgradesTo":"Musketman",
+    "obsoleteTech":"Military Science",
+    "uniques":["[+50]% Combat Strength <vs Mounted Units>"],
+  },
   //Unique
   {
                "name": "Busho",
