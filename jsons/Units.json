@@ -1,7 +1,7 @@
 [
   //Non-unique
   {
-    "name":"Nodachi Samurai",
+             "name":"Nodachi Samurai",
     "unitType":"Sword",
     "replaces":"Longswordsman",
     "movement": 2,
@@ -24,7 +24,7 @@
     "uniques":["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+15]% Strength bonus for [Military] units within [2] tiles", "Double Movement bonus for [Military] units within [1] tiles", "Provides [Horses] after researching [Biology]","Recieves the [Sapper] promotion <during an Golden Age>", "Can instantly construct a [Citadel] improvement <by consuming this unit>","Can be earned through combat", "Great Person - [War]","Unbuildable","Uncapturable"],
   },
   {
-    "name":"Yabusame",
+            "name":"Yabusame",
     "unitType":"Archery",
     "uniqueTo":"Hojo",
     "replaces":"Crossbowman",
@@ -32,8 +32,7 @@
     "strength": 15,
     "rangedStrength": 18,
     "cost": 120,
-    "requiredTech":"Archery",
-    "requiredResource":"Horse",
+    "requiredTech":"Chivalry",
     "upgradesTo":"Gatling Gun",
     "obsoleteTech":"Industrialization",
     "uniques":["Can move after attacking"],
