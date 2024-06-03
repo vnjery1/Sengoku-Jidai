@@ -52,4 +52,11 @@
     "obsoleteTech":"Military Science",
     "uniques":["When garrisoned, excess [Food] provides [Great General] points","[+2] Movement if starting a turn garrisoned"],
   },
+  {
+    "name":"Rengashi",
+    "unitType":"Civilian",
+    "uniqueTo":"Imagawa",
+    "movement": 2,
+    "uniques":["Empire enters a [8]-turn Golden Age <by consuming this unit>", "Can instantly provides [100 Culture] <by consuming tbis unit>","No [Maintenance] cost"],
+  },
 ]
