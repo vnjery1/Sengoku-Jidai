@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Ichirikuza",
+    "uniqueTo":"Chosokabe",
+    "terrainsCanBeBuiltOn":["Hill","Forest","Jungle"],
+    "requiredTech":"Civil Service",
+    "uniques":["Provides [+2] Gold","Provides [+2] Culture after discovering [Railroad]","Prevent any adjecent [Trade] units <from being pillaged>","May not be built adjacent to another Ichirikuza"],
+  },
