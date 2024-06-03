@@ -1,0 +1,11 @@
+[
+  //Non-unique
+  //Unique
+  {
+    "name":"Tamaton-zo",
+    "uniqueTo":"Uesugi",
+    "replaces":"Shrine",
+    "cost": 40,
+    "uniques":["[+1 XP] from every [50 Faith]"],
+  },
+]
