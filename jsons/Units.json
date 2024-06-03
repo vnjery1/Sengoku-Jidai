@@ -38,4 +38,18 @@
     "uniques":["Can move after attacking"],
     "attackSound":"arrow",
   },
+  {
+    "name":"Ichiryo Gusoku",
+    "unitType":"Sword",
+    "uniqueTo":"Chosokabe",
+    "replaces":"Longswordsman",
+    "movement":2,
+    "strength":21,
+    "cost":120,
+    "requiredTech":"Steel",
+    "requiredResource":"Iron",
+    "upgradesTo":"Musketman",
+    "obsoleteTech":"Military Science",
+    "uniques":["When garrisoned, excess [Food] provides [Great General] points","[+2] Movement if starting a turn garrisoned"],
+  },
 ]
