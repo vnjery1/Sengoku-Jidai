@@ -11,7 +11,7 @@
     "requiredResource":"Iron",
     "upgradesTo":"Musketman",
     "obsoleteTech":"Military Science",
-    "uniques":["[+50]% Combat Strength <vs Mounted Units>"],
+    "uniques":["[+50]% Combat Strength <vs [Mounted] units>"],
   },
   //Unique
   {
@@ -20,7 +20,7 @@
     "uniqueTo":"Takeda",
     "replaces":"Great General",
     "movement": 2,
-    "uniques":["Empire enters a [8]-turn golden age by consuming this unit", "[+15]% Strength bonus for [Military] units within [2] tiles", "Double Movement bonus for [Military] units within [1] tiles", "Provides [Horses] after researching [Biology]","Recieves the [Sapper] promotion <during an Golden Age>", "Can instantly construct a [Citadel] improvement by consuming this unit","Can be earned through combat", "Great Person - [War]","Unbuildable","Uncapturable"],
+    "uniques":["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+15]% Strength bonus for [Military] units within [2] tiles", "Double Movement bonus for [Military] units within [1] tiles", "Provides [Horses] after researching [Biology]","Recieves the [Sapper] promotion <during an Golden Age>", "Can instantly construct a [Citadel] improvement <by consuming this unit>","Can be earned through combat", "Great Person - [War]","Unbuildable","Uncapturable"],
   },
   {
     "name":"Yabusame",
