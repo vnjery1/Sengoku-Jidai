@@ -35,6 +35,5 @@
     "requiredResource":"Horse",
     "upgradesTo":"Gatling Gun",
     "obsoleteTech":"Industrialization",
-    "promotions":["Gains increased Combat Strength the further it moves"],
-    "uniques":["Can move after attacking"],
+    "uniques":["Can move after attacking","Gains increased Combat Strength the further it moves"],
 ]
