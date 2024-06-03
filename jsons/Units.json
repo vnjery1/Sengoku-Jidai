@@ -35,5 +35,4 @@
     "requiredResource":"Horse",
     "upgradesTo":"Gatling Gun",
     "obsoleteTech":"Industrialization",
-    "uniques":["Can move after attacking"],
 ]
