@@ -196,6 +196,34 @@
    "uniques":["For the first [5] turns of a war, Units ignore enemy [Zone of Control] and may use enemy [Roads]. Capturing another Civilization's Capital transfers all their [Influence] with City-States to you."],
    "cities":["Sunpu","Hamamatsu","Shizuhatayama","Kakegawa","Mochifune","Tanaka","Kokokuji","Omiya","Mariko","Hanazawa","Ishiwaki","Katanokami","Hanakura","Yokoji","Takatenjin","Utsuyama","Inui","Futamata","Tobayama","Osakabe","Iinoya","Shizu","Kuno","Okazaki","Tahara","Yoshida","Ansho","Otaka","Kutsukake","Narumi"],
 },
+{
+   "name":"Mori",
+   "style":"Oriental",
+   "leaderName":"Mori Motonari",
+   "adjectives":["Mori Clan Member"],
+   "startBias":["Coast"],
+   "preferredVictoryType":"",
+   "favoredReligion":"Buddhism",
+
+   "startIntroPart1":"Blessings of the divine be upon you, Lord Mori Motonari, great Daimyo and head of the ancient Mori Clan! The Mori descended from Oe Hiromoto of the Kamakura period, but it was under your stewardship that the clan truly came to prominence. When you came to power, Aki Province was threatened on all sides by the neighboring Ouchi, Amago and Takeda clans. Through your careful strategy and cunning diplomacy, you were able to turn the tables on each of your enemies in turn, culminating in your legendary battle against the Ouchi on the sacred isle of Miyajima. Your glorious victory set the stage for the rise of your family, with the Mori becoming one of the most important clans in Western Japan.",
+   "startIntroPart2":"Lord Mori, your people yearn to know your next ambition! Will you carve out an empire by land and by sea? Will you raise the Mori name from obscurity into the annals of history? Can you build a civilization that will stand the test of time?",
+
+   "introduction":"Greetings to you, fellow warrior. I am Mori Motonari, of Aki. What will history say of our meeting?",
+   "neutralHello":"Welcome back. What brings you here?",
+   "hateHello":"Oh, what do you want from me?",
+   "tradeRequest":"I would like to see my proposal being fairly agreed upon. Be wise and you will see its fairness.",
+
+   "declaringWar":"Your arrogance tells me of deception. I have no choice but to declare war on you.",
+   "attacked":"How arrogant you are to declare war on me. Let's see who lasts longer.",
+   "defeated":"Divided, and you will perish. Learn the lesson that I failed to understand.",
+
+   "outerColor":[250,0,0],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"The Three Arrows",
+   "uniques":["Kills along a coastline yield [Faith] and damage adjacent enemy Units. Embarked [Great Prophets] may construct [Holy Sites] on [Coast] tiles."],
+   "cities":["Yoshida-Koriyama","Suzuo","Tajihi-Sarugake","Miyao","Sakurao","Hinoyama","Niitakayama","Miiri-Takamatsu","Hagi","Kagamiyama","Goryu","Hiroshima","Katsura","Biwako","Mibu","Kimura","Funayama","Yagi","Nagamiyama","Koi","Tokonoyama","Mihara","Sato-Kanayama","Kusatsu","Hatagaeshiyama","Kannabe","Takayama","Kashirazaki","Kagi","Konomine","Shikano","Odaka","Noshima","Yamabuki","Shiraga","Gassantoda","Nukuyu","Mitoya","Akana","Tsuwano"],
+},
 //Minor Clans
 //Ikko-ikki
 //Others
