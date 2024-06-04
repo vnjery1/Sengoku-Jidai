@@ -132,7 +132,7 @@
     "movement":4,
     "cost":100,
     "religiousStrength":1000,
-    "uniques":["Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed","May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there","Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]","[-1] Sight","Unbuildable","Religious Unit","Hidden when religion is disabled","[+2] Sight and [+1] Movement <while embarked>","Yields [Science] <when expended>"],
+    "uniques":["Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>","May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there","Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]","[-1] Sight","Unbuildable","Religious Unit","Hidden when religion is disabled","[+2] Sight and [+1] Movement <while embarked>","Yields [Science] <when expended>"],
   },
       
 ]
