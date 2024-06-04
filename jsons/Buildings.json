@@ -34,4 +34,14 @@
     "requiredBuilding":"Monument",
     "uniques":["[+1][Culture] per [International Trade Route]","+1 [Porcelain]","Destroyed when the city is captured"],
   },
+  {
+    "name":"Ryugen-ji",
+    "uniqueTo":"Shimazu",
+    "replaces":"Temple",
+    "faith":5,
+    "science":2,
+    "cost":100,
+    "maintenance":2,
+    "uniques":["Gain [50] Science <when a foreign [Religious] unit is expended adjacent to this City>"],
+  },
 ]
