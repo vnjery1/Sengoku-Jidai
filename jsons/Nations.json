@@ -224,6 +224,34 @@
    "uniques":["Kills along a coastline yield [Faith] and damage adjacent enemy Units. Embarked [Great Prophets] may construct [Holy Sites] on [Coast] tiles."],
    "cities":["Yoshida-Koriyama","Suzuo","Tajihi-Sarugake","Miyao","Sakurao","Hinoyama","Niitakayama","Miiri-Takamatsu","Hagi","Kagamiyama","Goryu","Hiroshima","Katsura","Biwako","Mibu","Kimura","Funayama","Yagi","Nagamiyama","Koi","Tokonoyama","Mihara","Sato-Kanayama","Kusatsu","Hatagaeshiyama","Kannabe","Takayama","Kashirazaki","Kagi","Konomine","Shikano","Odaka","Noshima","Yamabuki","Shiraga","Gassantoda","Nukuyu","Mitoya","Akana","Tsuwano"],
 },
+{
+   "name":"Shimazu",
+   "style":"Oriental",
+   "leaderName":"Shimazu Yoshihisa",
+   "adjectives":["Shimazu Clan Member"],
+   "startBias":["None"],
+   "preferredVictoryType":"Scientific",
+   "favoredReligion":"Buddhism",
+
+   "startIntroPart1":"",
+   "startIntroPart2":"",
+
+   "introduction":"",
+   "neutralHello":"",
+   "hateHello":"",
+   "tradeRequest":"",
+
+   "declaringWar":"",
+   "attacked":"",
+   "defeated":"",
+
+   "outerColor":[0,0,0],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"",
+   "uniques":[""],
+   "cities":[],
+},
 //Minor Clans
 //Ikko-ikki
 //Others
