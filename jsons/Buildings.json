@@ -23,4 +23,13 @@
     "cost": 100,
     "uniques":["When a [Great Person] is stationed in this City, generates [2 Influence] per turn with [City-States] of that [Great Person]'s type."],
   },
+  {
+    "name":"Hagiyaki Workshop",
+    "uniqueTo":"Mori",
+    "replaces":"Amphitheatre",
+    "culture":3,
+    "cost":100,
+    "maintenance":1,
+    "requiredBuilding":["Monument","Shrine"],
+    "uniques":["[+1][Culture] per [International Trade Route]","+1 [Porcelain]","Destroyed when the city is captured"]
 ]
