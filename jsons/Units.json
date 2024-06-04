@@ -7,12 +7,24 @@
     "movement": 2,
     "strength": 21,
     "cost": 120,
-    "requiredTech":"Steel",
+    "techRequired":"Steel",
     "requiredResource":"Iron",
     "upgradesTo":"Musketman",
     "obsoleteTech":"Military Science",
     "uniques":["[+50]% Combat Strength <vs [Mounted] units>"],
     "attackSound":"metalhit"
+  },
+  {
+    "name":"Takegashima Infantry",
+    "unitType":"Gunpowder",
+    "replaces":"Musketman",
+    "movement":2,
+    "strength":24,
+    "cost":172,
+    "techRequired":"Physics",
+    "upgradesTo":"Rifleman",
+    "obsoleteTech":"Rifling",
+    "uniques":["[+50]% Flank attack bonus"],
   },
   //Unique
   {
