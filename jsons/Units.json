@@ -73,4 +73,16 @@
     "upgradesTo":"Landship",
     "uniques":["Can move after attacking", "No defensive terrain bonus","Ignores enemy [Zone of Control]","[+10]% Strength <vs [Military] units>","[+33]% Strength <vs cities> <when attacking>","If beginning near a [Busho], retains its bonus <even when moving out of range>"],
   },
+  {
+    "name":"Murakami Kobaya",
+    "unitType":"Melee Water",
+    "uniqueTo":"Mori",
+    "replaces":"Caravel",
+    "movement": 6,
+    "strength": 20,
+    "cost": 120,
+    "techRequired":"Astronomy",
+    "upgradesTo":"Ironclad",
+    "obsoleteTech":"Steam Power",
+    "uniques":["May withdraw from melee (80%)","[+1 Sight]","Heal [10] HP <on a Trade Route>","Heal [20] HP <on a [Tile Improvement]>","[+10]% Combat Strength <for each adjacent [Land] tiles><at the start of its turn>"],
 ]
