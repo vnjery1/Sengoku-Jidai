@@ -273,7 +273,7 @@
    "attacked":"Fine, by God's will, we will win over you and your army. May God help us all.",
    "defeated":"I go now to give a full account of my deeds before God. I pray that you may be next.",
 
-   "outerColor":[0,0,0],
+   "outerColor":[50,0,200],
    "innerColor":[0,0,0],
 
    "uniqueName":"Tensho Embassy",
