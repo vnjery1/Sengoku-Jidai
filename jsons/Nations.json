@@ -361,6 +361,19 @@
    "uniques":["Gains [5] [Culture] <for every [Military] units killed>."],
    "cities":["Akita"],
 },
+{
+   "name":"Nanbu",
+   "style":"Oriental",
+   "cityStateType":"Militaristic",
+   "adjective":["Nanbu Clan Member"],
+   "declaringWar":"You made us felt scared, we have no choice but to go against you.",
+   "attacked":"Your decision made us sad, but war is war, so we will be ready to defeat you.",
+   "defeated":"You showed us skills, you have our respect, yet we are now stateless, thanks to you.",
+   "outerColor":[0,0,0],
+   "innerColor":[255,255,255],
+   "uniques":["[Land] units yield [10] [Gold] <for every [Military] units killed>"],
+   "cities":["Morioka","Hachinohe","Shichinohe"],
+},
 //Ikko-ikki
 //Others
 ]
