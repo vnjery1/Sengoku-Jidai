@@ -79,11 +79,12 @@
     "uniqueTo":"Mori",
     "replaces":"Caravel",
     "movement": 6,
+    "sight":5,
     "strength": 20,
     "cost": 120,
     "techRequired":"Astronomy",
     "upgradesTo":"Ironclad",
     "obsoleteTech":"Steam Power",
-    "uniques":["May withdraw from melee (80%)","[+1 Sight]","Heal [10] HP <on a Trade Route>","Heal [20] HP <on a [Tile Improvement]>","[+10]% Combat Strength <for each adjacent [Land] tiles><at the start of its turn>"],
+    "uniques":["May withdraw from melee (80%)","Heal [10] HP <on a Trade Route>","Heal [20] HP <on a [Tile Improvement]>","[+10]% Combat Strength <for each adjacent [Land] tiles><at the start of its turn>"],
   },
 ]
