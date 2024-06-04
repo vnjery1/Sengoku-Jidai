@@ -30,7 +30,7 @@
     "culture":3,
     "cost":100,
     "maintenance":1,
-    "requiredBuilding":["Monument","Shrine"],
+    "requiredBuilding":"Monument",
     "uniques":["[+1][Culture] per [International Trade Route]","+1 [Porcelain]","Destroyed when the city is captured"],
   },
 ]
