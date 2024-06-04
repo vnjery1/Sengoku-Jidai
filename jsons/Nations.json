@@ -286,27 +286,27 @@
    "leaderName":"Date Masemune",
    "adjectives":["Japanese"],
    "startBias":["None"],
-   "preferredVictoryType":"",
+   "preferredVictoryType":"Domination",
    "favoredReligion":"Shinto",
 
    "startIntroPart1":"May fortune be in your favour, Date Masamune, the One-Eyed Dragon of Oshu, head of Date clan and Daimyo. A life of battle was one which was given you, but it was not your only pursuit. You built many castles and increased trade, becoming known more for your interaction with the outside world and steadfast ethics than your military prowess. You organized expeditions to Europe, allowed foreign trade and the practice and spread of Christianity, and built the city of Sendai up, using foreign techniques which you adopted to get a cutting edge. But you were in a new age of Japan, and those such as Toyotomi Hideyoshi and Tokugawa Ieyasu, while sometimes being your patrons, were often at odds with you. Thus, deftly navigating the difficulties of the new world, you build up a power within the framework of this new Japan. Their pressure would often go against your wishes, such as when Ieyasu outlawed Christianity.",
    "startIntroPart2":"Date Masamune, the age of the daimyos has come anew. Build a new empire, using new technology, and, remembering all you once accomplished, set out on a new voyage to the ends of the world. Will you explore and conquer for your clan? Can you build a civilization that can stand the test of time?",
 
-   "introduction":"",
-   "neutralHello":"",
-   "hateHello":"",
-   "tradeRequest":"",
+   "introduction":"Welcome to the lands of the Date. I am Date Masamune. I trust you will find my lands comforting.",
+   "neutralHello":"Welcome back, what brings you here?",
+   "hateHello":"Tsk, it's you again! What do you want?",
+   "tradeRequest":"This proposal is one of my thoughful proposals, considered it well, then decide. No need to rush, I still have time.",
 
-   "declaringWar":"",
-   "attacked":"",
-   "defeated":"",
+   "declaringWar":"You enraged this Dragon for being too ambitious! Prepare to be defeated.",
+   "attacked":"This shall be your greatest mistake. Prepare to be defeated.",
+   "defeated":"Rectitude carried to excess hardens into stiffness. Perhaps I was not flexible enough.",
 
-   "outerColor":[0,0,0],
-   "innerColor":[0,0,0],
+   "outerColor":[20,180,0],
+   "innerColor":[120,180,0],
 
-   "uniqueName":"",
-   "uniques":[""],
-   "cities":[],
+   "uniqueName":"One-Eyed Dragon",
+   "uniques":["[XP Buildings] respectively increase the [Food], [Production], and [Gold] of forestless [Tundra] and [Snow]. Building [Land] units may spawn [Farms] <on forestless [Tundra] and [Snow] tiles>. Building [Water] units may spawn [Customs Houses] <on forestless [Tundra] and [Snow] tiles>."],
+   "cities":["Sendai","Suginome","Kurokawa","Nihonmatsu","Obama","Shiraishi","Miharu","Motomiya","Yonezawa","Osato","Hibara","Sukagawa","Shirakawa","Inawashiro","Matsushima","Komagamine","Kori","Ayukai","Akogashima","Toshima-Tsukinoura","Iwadeyama","Wakabayashi","Hachome","Omori","Iwakiri","Nakaniida","Miyazaki","Sanuma","Shimokusa","Kamitate"],
 },
 //Minor Clans
 {
@@ -347,6 +347,19 @@
    "innerColor":[255,0,0],
    "uniques":["Earning cultural or war [Great People] damages all enemy units in your borders. Cities with a Guild gain [+5]% [Great Person] generation <from [defensive] buildings> <while at war>."],
    "cities":["Ueda","Tenpaku","Matsuo"],
+},
+{
+   "name":"Akita",
+   "style":"Oriental",
+   "cityStateType":"Cultured",
+   "adjective":["Akita Clan Member"],
+   "declaringWar":"You showed dishonesty to us, we have to declare war on you",
+   "attacked":"We will show our might, even if we're small.",
+   "defeated":"You showed us your might, and your skills in battle. We have no other words than to surrender.",
+   "outerColor":[0,0,0],
+   "innerColor":[20,0,0],
+   "uniques":["Gains [5] [Culture] <for every [Military] units killed>."],
+   "cities":["Akita"],
 },
 //Ikko-ikki
 //Others
