@@ -7,7 +7,7 @@
     "replaces":"Shrine",
     "faith": 5,
     "cost": 40,
-    "uniques":["[+1 XP] from every [50 Faith]"],
+    "uniques":["[+1] XP from every [50 Faith]"],
   },
   {
     "name":"Rakuichi",
