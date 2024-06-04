@@ -218,7 +218,7 @@
    "defeated":"Divided, and you will perish. Learn the lesson that I failed to understand.",
 
    "outerColor":[250,0,0],
-   "innerColor":[0,0,0],
+   "innerColor":[255,255,255],
 
    "uniqueName":"The Three Arrows",
    "uniques":["Kills along a coastline yield [Faith] and damage adjacent enemy Units. Embarked [Great Prophets] may construct [Holy Sites] on [Coast] tiles."],
@@ -230,27 +230,27 @@
    "leaderName":"Shimazu Yoshihisa",
    "adjectives":["Shimazu Clan Member"],
    "startBias":["None"],
-   "preferredVictoryType":"Scientific",
+   "preferredVictoryType":"Science",
    "favoredReligion":"Buddhism",
 
-   "startIntroPart1":"",
-   "startIntroPart2":"",
+   "startIntroPart1":"Welcome, Lord Shimazu Yoshihisa, head of the great house of Shimazu! After the Shimazu lands in Southern Kyushu were at last reunified thanks to the efforts of your predecessors, it was up to you to bring stability and prosperity to Satsuma and beyond. Though rarely on the battlefield yourself, you proved a cunning strategist and carefully applied the marshal brilliance of your brothers - Yoshihiro, Toshihisa, and Iehisa - to conquer the smaller clans surrounding your territory, and to eventually eclispe your great rivals, the Otomo.",
+   "startIntroPart2":"Lord Shimazu, though your rule over Kyushu was cut short by the overwhelming forces of Toyotomi Hideyoshi, all is not lost! Will you reclaim your ancestral territory and rule Satsuma once again? Can you build a civilization that will stand the test of time?",
 
-   "introduction":"",
-   "neutralHello":"",
-   "hateHello":"",
-   "tradeRequest":"",
+   "introduction":"This humble one is Yoshihisa, head of the Shimazu clan. I believe a great destiny lies ahead for my family.",
+   "neutralHello":"Welcome back, have some tea. What brings you here?",
+   "hateHello":"What do you want from me? If you wanted nothing, then leaving here would be better.",
+   "tradeRequest":"This proposal is, may I say this, good for both of us. So, would you accept this?",
 
-   "declaringWar":"",
-   "attacked":"",
-   "defeated":"",
+   "declaringWar":"Your ambitions are being too dangerous to do nothing. Let's fight and we will see if your ambitions survived.",
+   "attacked":"It is a pity that we must resolve to battle but I will show what might I have to defeat your kind.",
+   "defeated":"A pity I never had a chance to show my bravery in a battle. I waited here, for news of my brothers' victories.",
 
-   "outerColor":[0,0,0],
-   "innerColor":[0,0,0],
+   "outerColor":[0,80,0],
+   "innerColor":[255,255,255],
 
-   "uniqueName":"",
-   "uniques":[""],
-   "cities":[],
+   "uniqueName":"Tsubinobuse",
+   "uniques":["[Melee] Units may choose additional [Promotions] that allow them to retreat from combat. [+25]% Production towards [Gunpowder] Units if you have an active [Research Agreement]."],
+   "cities":["Uchi","Izaku","Ichijuji","Tofukuji","Kagoshima","Chiran","Dozaki","Himeki","Shibushi","Iino","Kokubu","Kajiki","Shimizu","Tomiguma","Akakina","Kurino","Iwatsurugi","Oguchi","Sadowara","Miyazaki","Obi","Kajiyama","Uchikoba","Iwamure","Kushima","Nojiri","Aya","Kakuto","Suki","Umekita","Kamiya","Daimyojin","Inoue","Takanabe","Uchiyama","Tonokori","Kiyotake","Mangata","Soi","Kobayashi","Mukasa","Tokumitsu","Nokubi","Matsuo","Hitoyoshi","Akai","Nagano","Hananoyama","Nango","Yamaga","Kumanosho","Tsumori","Takamori","Mifune","Sashiki","Takaba","Kiyama","Katashida","Aitoji","Minamata","Kikuchi"],
 },
 //Minor Clans
 //Ikko-ikki
