@@ -252,7 +252,48 @@
    "uniques":["[Melee] Units may choose additional [Promotions] that allow them to retreat from combat. [+25]% Production towards [Gunpowder] Units if you have an active [Research Agreement]."],
    "cities":["Uchi","Izaku","Ichijuji","Tofukuji","Kagoshima","Chiran","Dozaki","Himeki","Shibushi","Iino","Kokubu","Kajiki","Shimizu","Tomiguma","Akakina","Kurino","Iwatsurugi","Oguchi","Sadowara","Miyazaki","Obi","Kajiyama","Uchikoba","Iwamure","Kushima","Nojiri","Aya","Kakuto","Suki","Umekita","Kamiya","Daimyojin","Inoue","Takanabe","Uchiyama","Tonokori","Kiyotake","Mangata","Soi","Kobayashi","Mukasa","Tokumitsu","Nokubi","Matsuo","Hitoyoshi","Akai","Nagano","Hananoyama","Nango","Yamaga","Kumanosho","Tsumori","Takamori","Mifune","Sashiki","Takaba","Kiyama","Katashida","Aitoji","Minamata","Kikuchi"],
 },
+{
+   "name":"Otomo",
+   "style":"Oriental",
+   "leaderName":"Otomo Sorin",
+   "adjectives":["Otomo Clan Members"],
+   "startBias":["Avoid [Jungle]"],
+   "preferredVictoryType":"Religious",
+   "favoredReligion":"Catholicism",
+
+   "startIntroPart1":"Blessings be upon you Otomo Sorin, daimyo of the Otomo clan. Inheriting the Funai Domain from your father, you became one of the few daimyo to convert to Roman Catholicism. However, your wife, Lady Nata, the Jezebel, spent much of her political will actively resisting the Jesuit missionaries which you fostered relationships with and referred to you as King of Bungo. These missionaries included Francis Xavier. Advised by the Jesuit counsellors, you divorce your wife. Throughout this time, you also sent missions to Goa and Rome. Your reign was also defined by conflict, both with the Mori and the Shimazu. It was your appeal to Toyotomi Hideyoshi to aid in you holding back the Shimazu, that prompted his Kyushu campaign. Hideyoshi took over the entire island with your help, with you voluntary entering his service in your last few years.",
+   "startIntroPart2":"Otomo Sorin, use your adept political skill to once again rise amongst the ranks of the daimyo. Load your cannons, the destroyers of provinces, and rise against those who would oppose you. Protect your people, and fight for your beliefs against those who refuse to accept. Will you restore your family domain in Funai? Can you build a civilization that can stand the test of time?",
+
+   "introduction":"Welcome to the lands of the Otomo clan, traveler. I, Otomo Sorin, would be most pleased to see what you have to offer us.",
+   "neutralHello":"Greetings. What brings you here?",
+   "hateHello":"Ah... It's you... What do you want?",
+   "tradeRequest":"This proposal has been considered, so I hope you will accept this. It will be joyous for me if you do.",
+
+   "declaringWar":"By the will of God, I must declare war on you as suspicions of war is already simmering.",
+   "attacked":"Fine, by God's will, we will win over you and your army. May God help us all.",
+   "defeated":"I go now to give a full account of my deeds before God. I pray that you may be next.",
+
+   "outerColor":[0,0,0],
+   "innerColor":[0,0,0],
+
+   "uniqueName":"Tensho Embassy",
+   "uniques":["Owned [Missionaries] and [Trade] Units in foreign borders yield [Faith], and foreign Units of these types in your borders yield [Science]. Free [Siege] Unit <upon adopting a Religion in a City>."],
+   "cities":["Funai","Tsurusaki","Usuki","Takasakiyama","Uehara","Kagami","Tsuruga","Dazaifu","Hiji","Tsunomure","Manju-ji","Mizuga","Togamure","Kitsuki","Tsukumi","Kumamoto","Oka","Hakata","Kurume","Iwaya","Moji","Tatarahama","Yamato","Tachibanayama","Hetsugigawa","Terajihama"],
+},
 //Minor Clans
+{
+   "name":"Matsumae",
+   "style":"Oriental",
+   "cityStateType":"Maritime",
+   "adjective":["Matsumae Clan Member"],
+   "declaringWar":"Who do you think you are when you just bashing our doors?! We will show our might together to against you!",
+   "attacked":"Get out! We will not tolerate your threats! We will show our might at sea!",
+   "defeated":"The city is all yours, but beware, as we will come back, sooner or later!",
+   "outerColor":[0,0,0],
+   "innerColor":[20,0,120],
+   "uniques":["[Melee Water] units gains [Gold] and [XP] based on their [Combat Strength]. [+25] Influence on Matsumae <if Matsumae receiving [Water] units>"],
+   "cities":["Matsumae"],
+},
 //Ikko-ikki
 //Others
 ]
