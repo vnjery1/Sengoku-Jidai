@@ -302,7 +302,7 @@
    "defeated":"Rectitude carried to excess hardens into stiffness. Perhaps I was not flexible enough.",
 
    "outerColor":[20,180,0],
-   "innerColor":[120,180,0],
+   "innerColor":[180,180,0],
 
    "uniqueName":"One-Eyed Dragon",
    "uniques":["[XP Buildings] respectively increase the [Food], [Production], and [Gold] of forestless [Tundra] and [Snow]. Building [Land] units may spawn [Farms] <on forestless [Tundra] and [Snow] tiles>. Building [Water] units may spawn [Customs Houses] <on forestless [Tundra] and [Snow] tiles>."],
@@ -357,7 +357,7 @@
    "attacked":"We will show our might, even if we're small.",
    "defeated":"You showed us your might, and your skills in battle. We have no other words than to surrender.",
    "outerColor":[0,0,0],
-   "innerColor":[20,0,0],
+   "innerColor":[60,0,0],
    "uniques":["Gains [5] [Culture] <for every [Military] units killed>."],
    "cities":["Akita"],
 },
