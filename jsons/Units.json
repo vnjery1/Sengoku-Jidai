@@ -26,6 +26,17 @@
     "obsoleteTech":"Rifling",
     "uniques":["[+50]% Flank attack bonus"],
   },
+  {
+    "name":"Teppo Infantry",
+    "unitType":"Gunpowder",
+    "movement":1,
+    "strength":30,
+    "cost":150,
+    "techRequired":"Gunpowder",
+    "upgradesTo":"Rifleman",
+    "obsoleteTech":"Rifling",
+    "uniques":["[+50]% Combat Strength <vs [Military] units><when defending>","[+25]% Combat Strength <vs [Military] units><when attacking on [Rough] terrain tiles>"],
+  },
   //Unique
   {
                "name": "Busho",
