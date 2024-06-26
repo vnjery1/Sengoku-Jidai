@@ -1,20 +1,2 @@
 [
-  {
-    "name":"Against Uesugi",
-    "uniqueTo":"Takeda",
-    "text":"Our Great Daimyo, Uesugi Kenshin has declare war on us, what should we go to defeat him?",
-    "choices":[
-    {
-      "text":"Prepare our best [Akazonae]",
-      "triggeredUniques":["Free [10] [Akazonae]"],
-      "conditions":["Only available <if at war with [Uesugi]>"],
-    },
-    {
-      "text":"Let them enter our territory and we will strike them",
-      "triggeredUniques":["Gain [-10] [Happiness]","[Military] units gain [-10] XP"],
-      "conditions":["Only available <if at war with [Uesugi]>"],
-    },
-    ],
-    "uniques":["Only available <if at war with [Uesugi]>"],
-  }
 ]
